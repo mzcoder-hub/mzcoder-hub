@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Yasya El Hakim</h1>
+
+<p>
+
+- 🔭 I’m currently working on **Home**
+- 📝 I regulary write articles on [GTekno Media](https://gtekno.com/) and [GCantik Pancarkan kecantikan Dirimu](https://gcantik.com/)
+- 🌱 I’m currently learning **Javacript Full Stack  using MERN**
+- 💬 Ask me about **Blogger, SEO, and lil bit bout programming**
+- 📫 How to reach me: **galangypradana@gmail.com**
+- ⚡ Fun fact: **I'm a man :p**
+
+</p>
