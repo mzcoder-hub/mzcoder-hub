@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <h1 align="center">Hi 👋, I'm Galang Yoga Pradana </h1>
 
 <p>
@@ -23,5 +25,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Blogger, SEO, and lil bit bout programming**
 - 📫 How to reach me: **galangypradana@gmail.com**
 - ⚡ Fun fact: **I'm a man :p**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzcoder-hub&show_icons=true&theme=radical)]
 
 </p>
