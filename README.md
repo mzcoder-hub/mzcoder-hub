@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **galangypradana@gmail.com**
 - ⚡ Fun fact: **I'm a man :p**
 
-<center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzcoder-hub&show_icons=true&theme=radical)]</center>
+<center>[![Mzcoder-Hub GitHub stats](https://github-readme-stats.vercel.app/api?username=mzcoder-hub&show_icons=true&theme=radical)](https://github.com/mzcoder-hub/mzcoder-hub)</center>
 
 </p>
