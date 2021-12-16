@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>
 
 - 🔭 I’m currently working on **Home**
-- 📝 I regulary write articles on [GTekno Media](https://gtekno.com/) and [GCantik Pancarkan kecantikan Dirimu](https://gcantik.com/)
+- 📝 I regulary write articles on [GTekno Media](https://gtekno.com/)
 - 🌱 I’m currently learning **Javacript Full Stack  using MERN** and can use **PHP FRAMEWORK CI3/4, LARAVEL**
 - 💬 Ask me about **Blogger, SEO, and lil bit bout programming**
 - 📫 How to reach me: **galangypradana@gmail.com**
