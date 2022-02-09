@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 <p>
 
-- 🔭 I’m currently working on **Home**
-- 📝 I regulary write articles on [GTekno Media](https://gtekno.com/)
-- 🌱 I’m currently learning **Javacript Full Stack  using MERN** and can use **PHP FRAMEWORK CI3/4, LARAVEL**
+- 🔭 I’m currently working on **PT. Wiryatedja Akusara Mandiri**
+- 🌱 I’m currently learning **LARAVEL Frontend with VUEJS** and can use **PHP FRAMEWORK CI3/4, LARAVEL, MERN Stack**
 - 💬 Ask me about **Blogger, SEO, and lil bit bout programming**
-- 📫 How to reach me: **galangypradana@gmail.com**
+- 📫 How to reach me: **galangypradana@gmail.com** for business you can contact me in **galang@wiryatedja.id**
 - ⚡ Fun fact: **I'm a man :p**
 </p>
 
