@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <p>
 
 - 🔭 I’m currently Temporary working on **PT. Wiryatedja Akusara Mandiri** as CEO
-- 🌱 I’m currently learning **LARAVEL Fullstack Frontend with VUEJS** and can use **PHP FRAMEWORK CI3/4, LARAVEL, MERN Stack**
+- 🔭 I'm Working in **PT Cahaya Inovasi Anak Bangsa, Jakarta Selatan** as FULLSTACK JAVASCRIPT DEVELOPER
+- 🌱 I'm currently work on understanding GERN Stack, and Prisma with Docker
 - 💬 Ask me about **Blogger, SEO, and lil bit bout programming**
 - 📫 How to reach me: **galangypradana@gmail.com** for business you can contact me in **galang@wiryatedja.id**
 - ⚡ Fun fact: **I'm a man :p**
