@@ -4,6 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- 🔭 I'm Working in **PT Cahaya Inovasi Anak Bangsa, Jakarta Selatan** as FULLSTACK JAVASCRIPT DEVELOPER
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -20,8 +21,7 @@ Here are some ideas to get you started:
 <p>
 
 - 🔭 I’m currently Temporary working on **PT. Wiryatedja Digital Corporation** as CEO, And Now Looking for **A JOB** if there any company that want accept me with Remote Working
-- 🔭 I'm Working in **PT Cahaya Inovasi Anak Bangsa, Jakarta Selatan** as FULLSTACK JAVASCRIPT DEVELOPER
-- 🌱 I'm currently work on understanding GERN Stack, and Prisma with Docker
+- 🌱 I'm currently work on understanding React Native, Deep Learning Laravel AlpineJs, Wanna Learn in Golang.
 - 💬 Ask me about **Blogger, SEO, and lil bit bout programming**
 - 📫 How to reach me: **galangypradana@gmail.com** for business you can contact me in **galang@wiryatedja.id**
 - ⚡ Fun fact: **I'm a man :p**
